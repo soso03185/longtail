@@ -1,0 +1,9 @@
+lastUpgrade=01013
+proj.pluginVersion=0.10.13
+proj.AppId=15385975564
+and.BundleId=com.zmgma.longtail_2d
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e15385975564%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.zmgma.longtail_2d%3c%2fstring%3e%0d%0a++%3c%21--achievement+Google+SignIn--%3e%0d%0a++%3cstring+name%3d%22achievement_google_signin%22+translatable%3d%22false%22%3eCggIjLbNqDkQAhAC%3c%2fstring%3e%0d%0a++%3c%21--achievement+one--%3e%0d%0a++%3cstring+name%3d%22achievement_one%22+translatable%3d%22false%22%3eCggIjLbNqDkQAhAE%3c%2fstring%3e%0d%0a++%3c%21--achievement+two--%3e%0d%0a++%3cstring+name%3d%22achievement_two%22+translatable%3d%22false%22%3eCggIjLbNqDkQAhAF%3c%2fstring%3e%0d%0a++%3c%21--achievement+three--%3e%0d%0a++%3cstring+name%3d%22achievement_three%22+translatable%3d%22false%22%3eCggIjLbNqDkQAhAG%3c%2fstring%3e%0d%0a++%3c%21--event+event--%3e%0d%0a++%3cstring+name%3d%22event_event%22+translatable%3d%22false%22%3eCggIjLbNqDkQAhAI%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+num--%3e%0d%0a++%3cstring+name%3d%22leaderboard_num%22+translatable%3d%22false%22%3eCggIjLbNqDkQAhAH%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=15385975564-lul0hv749a38fnhj27mjceik7fudb88u.apps.googleusercontent.com
+android.SetupDone=true
